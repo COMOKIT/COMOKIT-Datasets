@@ -1,7 +1,5 @@
 # COMOKIT-Datasets
-Additional datasets that an be used with the COMOKIT models.
-
-This repository provides additional datasets to the 5 ones packed with the COMOKIT model.
+This repository provides additional datasets that an be used with the COMOKIT models.
 
 WARNING: the quality of these datasets is not ensured by the COMOKIT development team.
 
