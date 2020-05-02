@@ -10,5 +10,5 @@ WARNING: the quality of these datasets is not ensured by the COMOKIT development
   2. Copy-paste the chosen dataset folder inside the `Datasets` folder of the COMOKIT model.
   3. Modify the chosen experiment to take this dataset (if needed).
   
+![test](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cc-by-sa_%281%29.svg/200px-Cc-by-sa_%281%29.svg.png)
 
-![https://commons.wikimedia.org/wiki/File:Cc-by-sa_(1).svg](https://commons.wikimedia.org/wiki/File:Cc-by-sa_(1).svg)
